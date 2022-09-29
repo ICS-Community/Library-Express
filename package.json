@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
+    "express-app": "file:test/express-app",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.21.4"
